@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029ValSilu9Bb62q8tgBr3p
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support group
-👉 https://t.me/Inconnu_tech👈
+Wanna talk to me?👉https://t.me/Inconnu_tech 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Inconnu tech *
 _____________________________________
