@@ -58,8 +58,8 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐈𝐍𝐂𝐎𝐍𝐍𝐔-𝐌𝐃 SESSION IS 
-┃SUCCESSFULLY
+┃𝐈𝐍𝐂𝐎𝐍𝐍𝐔-V2-𝐌𝐃 SESSION IS 
+┃SUCCESSFULLY 🦠
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
